@@ -1,0 +1,7 @@
+follow part 1 with cf https://github.com/NVISIA/cloud-formation-daily-test/blob/master/blog-cf.md
+part 2 with ter http://www.nvisia.com/insights/terraform-template-for-aws-cloudformation-daily-testing
+
+keypair to be provided
+
+I updated nodejs 6 to nodejs16.x
+
